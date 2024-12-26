@@ -1,0 +1,42 @@
+[main]
+background=MainMenuBackground
+music=Main
+act:laundromat:Start Story=The Laundromat
+
+[laundromat]
+music=Game
+background=Laundromat
+charName=Miho
+char=Miho_Casual_Smile
+text:1=Welcome to DVN! DVN is a free visual novel engine written in D.
+
+[1]
+charName=Miho
+char=Miho_Casual_Smile
+text:?=Where do you want to go?
+option:school=I want to go to school.
+option:train=I want to take the train.
+
+[school]
+background=MainMenuBackground
+music=Main
+act:2:Continue=The School
+
+[2]
+music=Game
+background=Classroom_Day
+charName=Miho
+char=Miho_Casual_Smile
+text:end=This is the end.
+
+[train]
+background=MainMenuBackground
+music=Main
+act:3:Continue=The Train
+
+[3]
+music=Game
+background=Train_Day
+charName=Miho
+char=Miho_Casual_Smile
+text:end=This is the end.

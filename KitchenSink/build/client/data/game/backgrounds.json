@@ -1,0 +1,24 @@
+{
+    "Classroom_Day": {
+      "path": "data/game/backgrounds/Classroom_Day.png",
+      "size": {
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "Laundromat": {
+      "path": "data/game/backgrounds/Laundromat.png",
+      "size": {
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "Train_Day": {
+      "path": "data/game/backgrounds/Train_Day.png",
+      "size": {
+        "width": 1280,
+        "height": 720
+      }
+    }
+  }
+  

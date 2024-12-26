@@ -1,0 +1,30 @@
+[
+	{
+		"text": "Miho: Welcome to DVN! DVN is a free visual novel engine written in D.",
+		"options": [],
+		"sceneName": "laundromat",
+		"sceneBackground": "Laundromat",
+		"sceneMusic": ""
+	},
+	{
+		"text": "Miho: Where do you want to go?",
+		"options": [],
+		"sceneName": "1",
+		"sceneBackground": "Laundromat",
+		"sceneMusic": ""
+	},
+	{
+		"text": "Miho: This is the end.",
+		"options": [],
+		"sceneName": "2",
+		"sceneBackground": "School_Day",
+		"sceneMusic": ""
+	},
+	{
+		"text": "Miho: This is the end.",
+		"options": [],
+		"sceneName": "3",
+		"sceneBackground": "Train_Day",
+		"sceneMusic": ""
+	}
+]
