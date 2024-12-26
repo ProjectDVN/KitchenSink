@@ -4,27 +4,27 @@
 		"options": [],
 		"sceneName": "laundromat",
 		"sceneBackground": "Laundromat",
-		"sceneMusic": ""
+		"sceneMusic": "Game"
 	},
 	{
 		"text": "Miho: Where do you want to go?",
 		"options": [],
 		"sceneName": "1",
 		"sceneBackground": "Laundromat",
-		"sceneMusic": ""
+		"sceneMusic": "Game"
 	},
 	{
 		"text": "Miho: This is the end.",
 		"options": [],
 		"sceneName": "2",
 		"sceneBackground": "School_Day",
-		"sceneMusic": ""
+		"sceneMusic": "Game"
 	},
 	{
 		"text": "Miho: This is the end.",
 		"options": [],
 		"sceneName": "3",
 		"sceneBackground": "Train_Day",
-		"sceneMusic": ""
+		"sceneMusic": "Game"
 	}
 ]
