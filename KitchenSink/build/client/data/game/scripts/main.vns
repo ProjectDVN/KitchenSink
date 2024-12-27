@@ -8,12 +8,13 @@ music=Game
 background=Laundromat
 charName=Miho
 char=Miho_Casual_Smile
+cf
 text:1=Welcome to DVN! DVN is a free visual novel engine written in D.
 
 [1]
 charName=Miho
 char=Miho_Casual_Smile
-text:?=Where do you want to go?
+text=Where do you want to go?
 option:school=I want to go to school.
 option:train=I want to take the train.
 
